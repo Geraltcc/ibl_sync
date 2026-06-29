@@ -1,0 +1,12 @@
+单方程显式计算4核MPI并行：
+Found 64 points for cf profile output
+Cf profile written to 'cf_profile_t30.000.txt'
+
+# Octree, 923 steps, 456.073 CPU, 458.2 real, 5.28e+05 points.step/s, 54 var
+# 4 procs, MPI: min 79 (17%) avg 1.2e+02 (27%) max 1.7e+02 (37%)
+单方程点隐法4核MPI并行计算：
+Found 64 points for cf profile output
+Cf profile written to 'cf_profile_t30.000.txt'
+
+# Octree, 923 steps, 393.108 CPU, 393.3 real, 6.15e+05 points.step/s, 54 var
+# 4 procs, MPI: min 57 (14%) avg 97 (25%) max 1.4e+02 (35%)

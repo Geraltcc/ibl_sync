@@ -1,0 +1,13 @@
+不使用多重网格单核计算：
+Found 64 points for cf profile output
+Cf profile written to 'cf_profile_t30.000.txt'
+
+# Octree, 923 steps, 1361.31 CPU, 1362 real, 1.78e+05 points.step/s, 54 var
+# 1 procs, MPI: min 0 (0%) avg 0 (0%) max 0 (0%)
+使用多重网格multigrid单核计算：
+Found 64 points for cf profile output
+Cf profile written to 'cf_profile_t30.000.txt'
+
+# Multigrid, 923 steps, 315.435 CPU, 315.5 real, 7.67e+05 points.step/s, 54 var
+# 1 procs, MPI: min 0.052 (0.016%) avg 0.052 (0.016%) max 0.052 (0.016%)
+

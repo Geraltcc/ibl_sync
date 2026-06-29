@@ -1,0 +1,12 @@
+单方程点隐法单核心计算：
+Found 64 points for cf profile output
+Cf profile written to 'cf_profile_t30.000.txt'
+
+# Octree, 923 steps, 1361.31 CPU, 1362 real, 1.78e+05 points.step/s, 54 var
+# 1 procs, MPI: min 0 (0%) avg 0 (0%) max 0 (0%)
+单方程点隐法4核心MPI并行计算：
+Found 64 points for cf profile output
+Cf profile written to 'cf_profile_t30.000.txt'
+
+# Octree, 923 steps, 393.108 CPU, 393.3 real, 6.15e+05 points.step/s, 54 var
+# 4 procs, MPI: min 57 (14%) avg 97 (25%) max 1.4e+02 (35%)
