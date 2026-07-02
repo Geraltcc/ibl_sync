@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "a0aab1b3b38cb983",
+    "type": "split",
+    "children": [
+      {
+        "id": "6593ac199b692c30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e1398a26598ec8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4.4_技术指标逐项响应.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.4_技术指标逐项响应"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c4a46c26e258160",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d7c43e468146701",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fe39137bb92e893",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "22cb8a552494bd5a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ba17c45382564c0f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "73d7f437cb8a1165",
+    "type": "split",
+    "children": [
+      {
+        "id": "d962e0ecbcf0c09d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47742ef05854087e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "18fafec3b338761b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "bf4a6ee3629244b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "9c39761f2ab07d32",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "4c99b122abb37a0c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "png/figure_euler/M6.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "M6 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "0e1398a26598ec8d",
+  "lastOpenFiles": [
+    "4.2_案例标记说明.md",
+    "png/4.二-step-time.txt",
+    "png/auth.md",
+    "4.1.3_案例标记说明.md",
+    "4.1.2_案例标记说明.md",
+    "4.1.1_案例标记说明.md",
+    "png/figure_4.1.2/a-a.png",
+    "png/figure_euler/M6.png",
+    "png/figure_euler/ALL-BODY.png",
+    "png/figure_euler/DLR-F6.png",
+    "png/figure_euler/ALL-BODY.PNG",
+    "png/4.1.1_案例标记说明.md",
+    "png/figure_4.1.1/5.png",
+    "png/figure_euler/M6.md",
+    "png/figure_euler/ALL-BODY",
+    "png/figure_euler/M6",
+    "png/figure_euler/CHN-F1-2.png",
+    "png/figure_euler/CHN-F1-1.png",
+    "png/figure_euler/DLR-F6",
+    "png/figure_euler/M6-2.png",
+    "png/figure_euler/M6-1.png",
+    "png/figure_euler",
+    "png/新建文件夹",
+    "png/【公开】基于经典边界层理论的边界层求解功能模块研制招标文件/【公开】基于经典边界层理论的边界层求解功能模块研制招标文件.docx",
+    "png/【公开】基于经典边界层理论的边界层求解功能模块研制招标文件/【公开】基于经典边界层理论的边界层求解功能模块研制-任务书.docx",
+    "png/【公开】基于经典边界层理论的边界层求解功能模块研制招标文件/~$开】基于经典边界层理论的边界层求解功能模块研制招标文件.docx",
+    "png/【公开】基于经典边界层理论的边界层求解功能模块研制招标文件/~$开】基于经典边界层理论的边界层求解功能模块研制-任务书.docx",
+    "png/4.3_案例标记说明.md",
+    "png/4.2_案例标记说明.md",
+    "png/4.1.2_案例标记说明.md",
+    "png/4.1.3_案例标记说明.md",
+    "IBL-NOWAY/auth.md",
+    "IBL-NOWAY/4.3_案例标记说明.md",
+    "IBL-NOWAY/4.2_案例标记说明.md",
+    "IBL-NOWAY/4.1.3_案例标记说明.md",
+    "IBL-NOWAY/4.1.2_案例标记说明.md",
+    "IBL-NOWAY/4.1.1_案例标记说明.md",
+    "4.0_总体方案.md"
+  ]
+}
